@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**LeoSirius/LeoSirius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leo Sirius
 
-Here are some ideas to get you started:
+## My Primary Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table><tr>
+
+<td valign="top">
+
+My Blog [link](https://leosirius.fun/)
+
+LeetCode Solutions [代码仓库](https://github.com/liuyubobobo/Play-with-Algorithm-Visualization)
+
+</td>
+
+</tr></table>

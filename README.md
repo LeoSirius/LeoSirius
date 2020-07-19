@@ -22,9 +22,9 @@ I'm Leo Sirius
 
 <table>
 <tr>
+<td valign="top">
 
 ### codes of notes
-<td valign="top">
 
 [code_the_c_programming_language](https://github.com/LeoSirius/code_the_c_programming_language)
 
@@ -40,9 +40,9 @@ I'm Leo Sirius
 
 </td>
 
-### docs of notes
+<td valign="top">
 
-<td>
+### docs of notes
 
 [notes on math](https://github.com/LeoSirius/notes_on_mathematics)
 

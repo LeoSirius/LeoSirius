@@ -18,11 +18,13 @@ I'm Leo Sirius
 
 </table>
 
-## codes of notes
+## notes
 
 <table>
+<tr>
 
-<tr><td valign="top">
+### codes of notes
+<td valign="top">
 
 [code_the_c_programming_language](https://github.com/LeoSirius/code_the_c_programming_language)
 
@@ -36,7 +38,17 @@ I'm Leo Sirius
 
 [code_js_for_web_developers](https://github.com/LeoSirius/code_js_for_web_developers)
 
-</td></tr>
+</td>
 
+### docs of notes
+
+<td>
+
+[notes on math](https://github.com/LeoSirius/notes_on_mathematics)
+
+</td>
+
+
+</tr>
 </table>
 

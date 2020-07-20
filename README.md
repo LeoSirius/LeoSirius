@@ -8,7 +8,7 @@
 
 [meta_c](https://github.com/LeoSirius/meta_c) A c implmentation of data structures and algorithms.
 
-[LeetCode Solutions](https://github.com/liuyubobobo/Play-with-Algorithm-Visualization) My leetcode solutions in various languages and methods.
+[LeetCode Solutions](https://github.com/LeoSirius/leetcode_solutions) My leetcode solutions in various languages and methods.
 
 </td></tr>
 

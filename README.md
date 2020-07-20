@@ -1,8 +1,4 @@
-### Hi there 👋
-
-I'm Leo Sirius
-
-[My Main Page](https://www.leosirius.com)
+### Hi there 👋 I'm Leo Sirius
 
 ## My Primary Projects
 
@@ -10,7 +6,7 @@ I'm Leo Sirius
 
 <tr><td valign="top">
 
-[mete_c](https://github.com/LeoSirius/meta_c) A c implmentation of data structures and algorithms.
+[meta_c](https://github.com/LeoSirius/meta_c) A c implmentation of data structures and algorithms.
 
 [LeetCode Solutions](https://github.com/liuyubobobo/Play-with-Algorithm-Visualization) My leetcode solutions in various languages and methods.
 

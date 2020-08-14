@@ -14,7 +14,7 @@
 
 </table>
 
-## notes
+## Notes
 
 <table>
 <tr>
@@ -47,6 +47,8 @@
 
 </tr>
 </table>
+
+## My Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeoSirius&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

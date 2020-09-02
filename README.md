@@ -1,16 +1,26 @@
 ### Hi there 👋 I'm Leo Sirius
 
+
+## My Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeoSirius&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSirius&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## My Primary Projects
 
 <table>
 
 <tr><td valign="top">
 
-[meta_c](https://github.com/LeoSirius/meta_c) A c implmentation of data structures and algorithms.
+[Open dict](https://github.com/LeoSirius/open_dict) A web dictionary service
 
-[LeetCode Solutions](https://github.com/LeoSirius/leetcode_solutions) My leetcode solutions in various languages and methods.
+[Meta c](https://github.com/LeoSirius/meta_c) A c implmentation of data structures and algorithms
 
-[My Blog](https://leosirius.github.io/blog/)
+[LeetCode solutions](https://github.com/LeoSirius/leetcode_solutions) A leetcode solutions in various languages and methods
+
+[My blog](https://leosirius.github.io/blog/)
 
 </td></tr>
 
@@ -49,10 +59,3 @@
 
 </tr>
 </table>
-
-## My Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeoSirius&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSirius&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-

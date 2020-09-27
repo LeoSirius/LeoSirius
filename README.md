@@ -3,7 +3,13 @@
 
 ## My Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeoSirius&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSirius&count_private=true&show_icons=true&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeoSirius&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSirius&count_private=true&show_icons=true&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a align="center" href="https://www.leosirius.com/">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeoSirius&count_private=true&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSirius&count_private=true&show_icons=true&layout=compact" alt="languages" height="165">
+    </p>
+</a>
 
 
 ## My Primary Projects
